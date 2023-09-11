@@ -1,19 +1,33 @@
-# Hi all :wave:
+<h4 align="center"><samp> Hi there 👋 welcome to my Github! </br> I'm a PhD researcher on machine learning for graphs, generally interested on graph neural networks and relational learning. </samp></h4>
 
 <p align="center">
-  <samp>
-I'm Filippo Guerranti. Ph.D. in Machine Learning for Graphs @ Technical University of Munich (Germany).
-  </samp>
-
- <!--
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=guerrantif&show_icons=true" alt="Filippo Guerranti Github Stats"></img>
- -->
+  <img width="250" src="https://media.giphy.com/media/rSwofXqoQxixeJ3mW8/giphy.gif">
 </p>
 
-## Contact me :speech_balloon:
 
-Get in touch wit me!
+<p align="center">
+<a href= "https://twitter.com/guerrantif"><img src="https://img.icons8.com/material-outlined/32/twitterx--v1.png"/></a>
+<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/google-scholar.png"/></a>
+</p>
 
-:bird: <a href="https://twitter.com/guerrantif">Chat with me on Twitter</a>
+<!--<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p> -->
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+ -->
+<!--
+**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
