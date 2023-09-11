@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi all :wave:
 
-<!--
-**guerrantif/guerrantif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+I'm Filipppo Guerranti. Ph.D. in Machine Learning for Graphs @ Technical University of Munich (Germany).
+  </samp>
 
-Here are some ideas to get you started:
+ <!--
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guerrantif&show_icons=true" alt="Filippo Guerranti Github Stats"></img>
+ -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me :speech_balloon:
+
+Get in touch wit me!
+
+:bird: <a href="https://twitter.com/guerrantif">Chat with me on Twitter</a>
