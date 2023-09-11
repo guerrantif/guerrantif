@@ -1,4 +1,4 @@
-<h2 align="center"><samp> PhD researcher on graph machine learning </samp></h2>
+<h3 align="center"><samp> PhD researcher on graph machine learning </samp></h3>
 <h4 align="center"><samp> Generally interested in graph neural networks and relational learning. </br> Originally from the country of 🍕, currently living and working in the country of 🥨 </samp></h4>
 
 <p align="center">
