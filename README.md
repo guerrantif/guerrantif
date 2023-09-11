@@ -1,13 +1,14 @@
-<h4 align="center"><samp> Hi there 👋 welcome to my Github! </br> I am a PhD researcher on graph machine learning, generally interested in graph neural networks and relational learning. </samp></h4>
+<h2 align="center"><samp> PhD researcher on graph machine learning </samp></h2>
+<h4 align="center"><samp> Generally interested in graph neural networks and relational learning. </br> Originally from the country of 🍕, currently living and working in the country of 🥨 </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/rSwofXqoQxixeJ3mW8/giphy.gif">
 </p>
 
-
 <p align="center">
-<a href= "https://twitter.com/guerrantif"><img src="https://img.icons8.com/material-outlined/32/twitterx--v1.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/google-scholar.png"/></a>
+<a href= "https://guerrantif.github.io"><img src="https://img.icons8.com/material-outlined/32/domain.png"/></a>
+<a href= "https://scholar.google.com/citations?user=uekwkvYAAAAJ&hl=en"><img src="https://img.icons8.com/material-outlined/32/google-scholar.png"/></a>
+<a href= "https://twitter.com/guerrantif"><img src="https://img.icons8.com/material-outlined/32/twitterx--v2.png"/></a>
 </p>
 
 <!--<p align="center"><samp>
