@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hi there 👋 welcome to my Github! </br> I'm a PhD researcher on machine learning for graphs, generally interested on graph neural networks and relational learning. </samp></h4>
+<h4 align="center"><samp> Hi there 👋 welcome to my Github! </br> I am a PhD researcher on graph machine learning, generally interested in graph neural networks and relational learning. </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/rSwofXqoQxixeJ3mW8/giphy.gif">
