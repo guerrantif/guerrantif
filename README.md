@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-I'm Filipppo Guerranti. Ph.D. in Machine Learning for Graphs @ Technical University of Munich (Germany).
+I'm Filippo Guerranti. Ph.D. in Machine Learning for Graphs @ Technical University of Munich (Germany).
   </samp>
 
  <!--
